@@ -1,0 +1,6 @@
+# source_relative|target_relative|type
+core|docs/core|dir
+templates|docs/templates|dir
+examples|docs/examples|dir
+adr|docs/adr|dir
+index.md|docs/index.md|file

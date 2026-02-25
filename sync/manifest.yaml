@@ -1,0 +1,7 @@
+source_root: "/path/to/your/ObsidianVault/playbook_template_hub"
+mappings_file: "sync/include_paths.txt"
+sync_mode: "one-way-obsidian-to-repo"
+delete_in_target: false
+exclude_globs:
+  - ".obsidian/**"
+  - "**/.DS_Store"
